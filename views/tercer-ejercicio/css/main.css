@@ -1,0 +1,18 @@
+/* General styles */
+.yellow, .gray{
+  height: 150px;
+  margin: 10px;
+  padding: 10px;
+  font-family: sans-serif;
+  width: 300px;
+  display: inline-block;
+}
+
+.yellow {
+ background: #f9cc5f;
+}
+
+.gray {
+ background: #2B2B2B;
+ color: #fff;
+}
